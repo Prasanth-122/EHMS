@@ -5,6 +5,13 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+body{
+   background-image: url('finger-pressing-virtual-heart-see-graph.jpg');
+  /*background-position: bottom;*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: 0 0 0 .1;
+}
 .wrapper{
   height: 100%;
   width: 300px;
