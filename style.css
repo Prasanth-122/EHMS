@@ -91,7 +91,13 @@ select {
   body {
     margin: 0px;
     padding: 0px;
-    background: none;
+    background: url('16379.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  h1,h2,h3,h4,h5,h6,p,span,li{
+    color: #fff;
   }
 
   .main {
